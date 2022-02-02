@@ -1,0 +1,5 @@
+{
+	"ip":"CHOCOLATESMP22.aternos.me",
+	"port": "25528",
+	"name": "afkbot"
+}
